@@ -1,6 +1,6 @@
 This contains some example code for using the OpenAI API for text-to-speech.
 
-1. Clone repo
+1. `git clone git@github.com:awiteckzb/tts_demo.git`
 2. `cd tts_demo`
 3. `pip install python-dotenv openai` 
 4. `cp .env_example .env`
